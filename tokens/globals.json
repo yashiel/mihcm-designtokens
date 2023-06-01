@@ -614,31 +614,31 @@
       "type": "boxShadow"
     },
     "A50": {
-      "value": "#eef8f8",
+      "value": "#e6f6fc",
       "type": "color"
     },
     "A75": {
-      "value": "#bae1e4",
+      "value": "#96dbf3",
       "type": "color"
     },
     "A100": {
-      "value": "#9dd4d8",
+      "value": "#6bccee",
       "type": "color"
     },
     "A200": {
-      "value": "#73c2c7",
+      "value": "#2bb6e6",
       "type": "color"
     },
     "A300": {
-      "value": "#56b5bc",
+      "value": "#00a7e1",
       "type": "color"
     },
     "A400": {
-      "value": "#3c7f84",
+      "value": "#00759e",
       "type": "color"
     },
     "A500": {
-      "value": "#346e73",
+      "value": "#006689",
       "type": "color"
     }
   },
