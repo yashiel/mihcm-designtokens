@@ -532,31 +532,31 @@
       "type": "boxShadow"
     },
     "P50": {
-      "value": "#e6ebed",
+      "value": "#e6ebf3",
       "type": "color"
     },
     "P75": {
-      "value": "#97adb4",
+      "value": "#96abcd",
       "type": "color"
     },
     "P100": {
-      "value": "#6c8b94",
+      "value": "#6b89b8",
       "type": "color"
     },
     "P200": {
-      "value": "#2d5966",
+      "value": "#2b569a",
       "type": "color"
     },
     "P300": {
-      "value": "#023747",
+      "value": "#003385",
       "type": "color"
     },
     "P400": {
-      "value": "#012732",
+      "value": "#00245d",
       "type": "color"
     },
     "P500": {
-      "value": "#01222b",
+      "value": "#001f51",
       "type": "color"
     }
   },
@@ -573,31 +573,31 @@
       "type": "boxShadow"
     },
     "S50": {
-      "value": "#fdf3f0",
+      "value": "#feefe7",
       "type": "color"
     },
     "S75": {
-      "value": "#f8cfc3",
+      "value": "#f9be9e",
       "type": "color"
     },
     "S100": {
-      "value": "#f6bcaa",
+      "value": "#f7a376",
       "type": "color"
     },
     "S200": {
-      "value": "#f29f86",
+      "value": "#f37b3a",
       "type": "color"
     },
     "S300": {
-      "value": "#ef8b6d",
+      "value": "#f16012",
       "type": "color"
     },
     "S400": {
-      "value": "#a7614c",
+      "value": "#a9430d",
       "type": "color"
     },
     "S500": {
-      "value": "#925542",
+      "value": "#933b0b",
       "type": "color"
     }
   },
