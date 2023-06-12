@@ -2,11 +2,11 @@
   "button": {
     "primary": {
       "active": {
-        "value": "{accent.A300}",
+        "value": "{primary.P300}",
         "type": "color"
       },
       "hover": {
-        "value": "{accent.A400}",
+        "value": "{primary.P400}",
         "type": "color"
       },
       "hover-alt": {
