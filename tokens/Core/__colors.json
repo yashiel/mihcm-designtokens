@@ -334,6 +334,24 @@
           "value": "{gradient.secondary.270}",
           "type": "color"
         }
+      },
+      "warning": {
+        "45": {
+          "value": "{gradient.warning.45}",
+          "type": "color"
+        },
+        "90": {
+          "value": "{gradient.warning.90}",
+          "type": "color"
+        },
+        "180": {
+          "value": "{gradient.warning.180}",
+          "type": "color"
+        },
+        "270": {
+          "value": "{gradient.warning.270}",
+          "type": "color"
+        }
       }
     }
   }
