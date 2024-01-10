@@ -925,6 +925,22 @@
       "270": {
         "value": "linear-gradient(270deg, $white 0%, $accent.A300 100%)",
         "type": "color"
+      },
+      "45-dark": {
+        "value": "linear-gradient(45deg, $accent.A500 0%, $accent.A300 100%)",
+        "type": "color"
+      },
+      "90-dark": {
+        "value": "linear-gradient(90deg, $accent.A500 0%, $accent.A300 100%)",
+        "type": "color"
+      },
+      "180-dark": {
+        "value": "linear-gradient(180deg, $accent.A500 0%, $accent.A300 100%)",
+        "type": "color"
+      },
+      "270-dark": {
+        "value": "linear-gradient(270deg, $accent.A500 0%, $accent.A300 100%)",
+        "type": "color"
       }
     },
     "normal": {
@@ -949,6 +965,22 @@
       "270": {
         "value": "linear-gradient(270deg, $white 0%, $secondary.S300 100%)",
         "type": "color"
+      },
+      "45-dark": {
+        "value": "linear-gradient(45deg, $secondary.S500 0%, $secondary.S300 100%)",
+        "type": "color"
+      },
+      "90-dark": {
+        "value": "linear-gradient(90deg, $secondary.S500 0%, $secondary.S300 100%)",
+        "type": "color"
+      },
+      "180-dark": {
+        "value": "linear-gradient(180deg, $secondary.S500 0%, $secondary.S300 100%)",
+        "type": "color"
+      },
+      "270-dark": {
+        "value": "linear-gradient(270deg, $secondary.S500 0%, $secondary.S300 100%)",
+        "type": "color"
       }
     },
     "warning": {
@@ -966,6 +998,22 @@
       },
       "270": {
         "value": "linear-gradient(270deg, $white 0%, $warning.W300 100%)",
+        "type": "color"
+      },
+      "45-dark": {
+        "value": "linear-gradient(45deg, $warning.W500 0%, $warning.W300 100%)",
+        "type": "color"
+      },
+      "90-dark": {
+        "value": "linear-gradient(90deg, $warning.W500 0%, $warning.W300 100%)",
+        "type": "color"
+      },
+      "180-dark": {
+        "value": "linear-gradient(180deg, $warning.W500 0%, $warning.W300 100%)",
+        "type": "color"
+      },
+      "270-dark": {
+        "value": "linear-gradient(270deg, $warning.W500 0%, $warning.W300 100%)",
         "type": "color"
       }
     }
