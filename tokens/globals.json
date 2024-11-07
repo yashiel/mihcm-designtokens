@@ -821,7 +821,7 @@
   },
   "fontFamily": {
     "roboto": {
-      "value": "Inter",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "courier": {
