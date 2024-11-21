@@ -288,24 +288,24 @@
   },
   "fontWeight": {
     "Bold": {
-      "value": "Bold",
-      "description": "fontWeight-Bold",
-      "type": "fontWeights"
+      "value": "700",
+      "type": "fontWeights",
+      "description": "fontWeight-Bold"
     },
     "Regular": {
-      "value": "Regular",
-      "description": "fontWeight.Regular",
-      "type": "fontWeights"
+      "value": "400",
+      "type": "fontWeights",
+      "description": "fontWeight.Regular"
     },
     "SemiBold": {
-      "value": "SemiBold",
-      "description": "fontWeight.SemiBold",
-      "type": "fontWeights"
+      "value": "600",
+      "type": "fontWeights",
+      "description": "fontWeight.SemiBold"
     },
     "Medium": {
-      "value": "Medium",
-      "description": "fontWeight.Medium",
-      "type": "fontWeights"
+      "value": "500",
+      "type": "fontWeights",
+      "description": "fontWeight.Medium"
     },
     "Italic": {
       "value": "Italic",
