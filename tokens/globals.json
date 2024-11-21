@@ -289,22 +289,22 @@
   "fontWeight": {
     "Bold": {
       "$type": "fontWeights",
-      "$value": "Bold",
+      "$value": "700",
       "$description": "fontWeight-Bold"
     },
     "Regular": {
       "$type": "fontWeights",
-      "$value": "Regular",
+      "$value": "400",
       "$description": "fontWeight.Regular"
     },
     "SemiBold": {
       "$type": "fontWeights",
-      "$value": "SemiBold",
+      "$value": "600",
       "$description": "fontWeight.SemiBold"
     },
     "Medium": {
       "$type": "fontWeights",
-      "$value": "Medium",
+      "$value": "500",
       "$description": "fontWeight.Medium"
     },
     "Italic": {
