@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Setup Node.js environment
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v5
         with:
           node-version: latest
       - run: npx token-transformer tokens transform/designToken.json --expandTypography true --expandShadow true --expandComposition true --resolveReferences true --expandBorder true
