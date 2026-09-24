@@ -17,6 +17,6 @@
 	},
 	"homepage": "https://github.com/yashiel/Loop-DesignToken#readme",
 	"devDependencies": {
-		"style-dictionary": "^3.7.2"
+		"style-dictionary": "^5.0.0"
 	}
 }
